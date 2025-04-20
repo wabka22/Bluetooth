@@ -1,5 +1,0 @@
-is_global = true
-build_property.RootNamespace = ESP32_SocketTest
-build_property.ProjectDir = C:\Users\alexe\Desktop\ESP32-Bluetooth-C-Sharp-Communication-main\C# Client\ESP32-SocketTest\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
